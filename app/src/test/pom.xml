@@ -141,8 +141,7 @@
         <connection>scm:git:git://github.com/magicmoor/maven-github.git</connection>
         <developerConnection>scm:git:git@github.com:magicmoor/maven-github.git</developerConnection>
         <url>https://github.com/magicmoor/maven-github</url>
-      <tag>MavenSample-1.2</tag>
-  </scm>
+    </scm>
 
     <distributionManagement>
         <snapshotRepository>
